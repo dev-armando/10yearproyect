@@ -1,0 +1,120 @@
+.backgroundp{
+background-color: rgb(255, 255, 255); background-image: url("../images/launch_bkgd.jpg"); background-position: center center; background-repeat: no-repeat; padding: 100px 30px; background-size: cover; height: calc(0px + 100vh);max-width: 100%;
+position: relative;
+}
+@media screen and (max-width: 800px){
+    .divform2, .divform2 div{
+        width: 100%;
+    }
+}
+.textcint{
+    position: relative;
+width: 70%;
+margin: 0 auto;
+margin-top: 5%;
+margin-bottom: 3%;
+}
+.divimg{
+    width: 100%;position: relative;margin: 0 auto;
+}
+.divimg img{
+width: 30%;margin-left: 35%;margin-top: 1%;
+}
+.textcint h1{
+font-family: 'Damion';
+font-weight: 400;
+line-height: 1.4;
+letter-spacing: 0px;color: #ffffff;font-size: 36px;text-align: center;text-align: center;
+text-shadow: #000 1px 0 40px;
+}
+
+.divform{
+width: 100%;
+}
+.divform2{
+width: 100%;
+float: left;
+margin: 0 auto;
+}
+
+#clock {
+font-family: 'PT Sans', sans-serif;
+font-weight: 700;
+letter-spacing: 1px;
+font-size: 20px;
+color: #FFF;
+}
+#clock span{
+font-family: 'PT Sans', sans-serif;
+  background-color: #e23d31;
+  margin: 1%;
+  padding: 12px 22px;
+text-align: center;
+}
+.fusion-layout-column.fusion-spacing-yes.fusion-two-third {
+width: 65%;
+position: relative;
+margin-left: 2%;
+}
+.fusion-layout-column.fusion-spacing-yes {
+    margin-right: 2%;
+}
+.wpcf7-form-control-wrap {
+    position: relative;
+}
+#comment-input input, .avada-select .select2-container .select2-choice, .avada-select-parent select, .chzn-container .chzn-drop, .chzn-container-single .chzn-single, .fusion-login-box .fusion-login-form input[type="password"], .fusion-login-box .fusion-login-form input[type="text"], .input-text:not(textarea), .main-nav-search-form input, .post-password-form label input[type="password"], .search-page-search-form input, .searchform .search-table .search-field input, .wpcf7-captchar, .wpcf7-form .wpcf7-date, .wpcf7-form .wpcf7-number, .wpcf7-form .wpcf7-quiz, .wpcf7-form .wpcf7-select, .wpcf7-form .wpcf7-text, input.s, input[type="email"], input[type="number"], input[type="password"], input[type="text"], select {
+    height: 54px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+input[type="email"]{
+    color: #e23d31;
+    background-color: #fbf7f7;
+font-size: 13px;
+padding: 8px 15px;
+float: none !important;
+width: 100% !important;
+border-color: rgba(210,210,210,0);
+}
+
+.fusion-layout-column.fusion-spacing-yes.fusion-column-last {
+    margin-left: 0;
+    margin-right: 0;
+}
+.fusion-layout-column.fusion-spacing-yes.fusion-one-third {
+width: 25%;
+}
+.fusion-layout-column {
+    position: relative;
+    float: left;
+    margin-bottom: 20px;
+}
+.wpcf7-form input[type="submit"], .wpcf7-submit, input.button-default {
+font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    cursor: pointer;
+}
+input[type="submit"], .wpcf7-submit {
+    padding: 16px 40px;
+    line-height: 21px;
+    font-size: 17px;
+}
+input[type="submit"], .wpcf7-submit, input.button-default {
+background: #000;
+text-transform: uppercase;
+color: #ffffff;
+border-width: 0.5px;
+border-style: solid;
+border-color: #5656564d;
+
+}
+input[type="submit"]:hover {
+background: #840000;;
+text-transform: uppercase;
+color: #ffffff;
+border-width: 0.5px;
+border-style: solid;
+border-color: #5656564d;
+
+}

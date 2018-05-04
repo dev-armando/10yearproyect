@@ -1,0 +1,203 @@
+/* ESTILOS MOVILES */
+@media screen and (max-width : 320px) { 
+section.banner{
+height: 125px !important;
+}
+.videoh{
+width: 7%;
+height: 21%;
+left: 27%;
+top: 0;
+}
+.butonb{
+  padding: 5px 5px;
+  font-size: 5px;
+}
+.btnbanner{
+left: 70%;
+bottom: 8%
+}
+.pricing-widget-wrapper{
+  margin:0 auto;
+  padding: 10px;
+}
+.sectiont{
+  padding: 0;
+  height: auto;
+}
+.oferta{
+  bottom: 0;
+}
+.busc .formbusc{
+  left: 0;
+}
+.busc.ador .formbusc{
+width: 95%;
+margin: 5% 5% auto !important;
+padding-left: 0 !important;
+position: relative;
+}
+.busc{
+  float: left;
+  width: 100%
+}
+.busc.ador .formbusc input[type="search"] {
+  width: 75%;
+}
+.headbusc .ador .formbusc button {
+    width: 15%;
+}
+.buscas, .sectiond{
+  height: 180px;
+}
+.txtbusc h1{
+  font-size: 1em;
+}
+.txtbusc p{
+  font-size: 0.9em;
+}
+.busc .drop{
+  display: none;
+}
+.txth1{
+  font-size: 1.4em;
+}
+.caheimagen {
+    width: 70%;
+    margin-left: 10%;
+  }
+.feature-left {
+    width: 40%;
+    height: 100px;
+    margin-top: -25%;
+  }
+.cahecard, .cahecard .txtgh3{
+  font-size: 10px;
+    padding: 5px !important;
+    line-height: normal;
+}
+.butong{
+  top: 11% !important;
+}
+.butonr{
+padding: 10px 10px;
+font-size: 7px;
+}
+.txtgh3p, .pgratis, .formbusc a.btn-adv-search{
+  display: none;
+}
+.txtgh3{
+  margin: 0 auto !important;
+}
+.lists_img{
+  width: 30px;
+}
+.asds{
+	padding-bottom: 0;
+}
+.mitads, .mitads2{
+margin-top: 15px;
+width: 50%;
+margin-left: 0%;
+}
+.mitads h3{
+font-size: 20px;
+}
+.sectiond a{
+margin-left: 2%;
+margin-top: -5%;
+}
+#bener{
+	height: 250px;
+}
+.cimgresponsive{
+width: 150px;
+height: 150px;
+top: 10px;
+}
+.historiatittle{
+	font-size: 14px;
+}
+.historiapletras{
+	font-size: 12px;
+}
+.tblar, .tblab{
+position: relative;
+width: 100%;
+}
+.tblab{
+	top: 20px;
+}
+.tblab small{
+font-size: 9px;
+text-align: justify;
+}
+.btncom{
+margin-left: 33%;
+}
+
+
+
+
+
+
+
+.sectionc, .sectionpa, .mitads h5, .mitads p{
+	display: none;
+}
+}
+@media screen and (max-width : 1400px) { 
+section.banner{
+  height: 555px;
+}
+.videoh{
+  width: 8%;
+height: 14%;
+top: 32%;
+left: 26.5%;
+}
+
+}
+@media screen and (max-width : 1200px) { 
+section.banner{
+  height: 550px;
+}
+.videoh{
+width: 8%;
+height: 14%;
+top: 32%;
+left: 31.5%;
+}
+.btnbanner{
+bottom:8%;
+top: unset;
+}
+}
+@media screen and (max-width : 1000px) { 
+section.banner{
+  height: 400px;
+}
+.videoh{
+width: 8%;
+height: 14%;
+top: 30%;
+left: 27.5%;
+}
+.btnbanner{
+bottom:8%;
+top: unset;
+}
+.pricing-widget-wrapper{
+  margin:0 auto;
+  padding: 10px;
+}
+.sectiont{
+  padding: 0;
+  height: auto;
+}
+.oferta{
+  bottom: 0;
+}
+
+
+}

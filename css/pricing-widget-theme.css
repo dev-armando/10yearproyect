@@ -1,0 +1,261 @@
+
+    .pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header { 
+	    background-color:#292929;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header p { 
+		border-bottom:1px solid #6bbef8; 
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header h4,
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header p,
+    .pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header span,
+    .pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header .pricing-tables-widget-price,
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header .pricing-tables-widget-savings,
+    .pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header .pricing-tables-widget-purchase,
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-header .pricing-tables-widget-media-holder i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-footer .pricing-tables-widget-purchase-button {
+background-color: #E04440;
+color: #fff;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-blue .pricing-tables-widget-footer .pricing-tables-widget-purchase-button:hover {
+background-color: #db1b1b;
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Green 
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header { 
+	    background-color:#47c871;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header p { 
+		border-bottom:1px solid #6ed790; 
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header h4,
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header p,
+    .pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header span,
+    .pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header .pricing-tables-widget-price,
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header .pricing-tables-widget-savings,
+    .pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header .pricing-tables-widget-purchase,
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-header .pricing-tables-widget-media-holder i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-footer .pricing-tables-widget-purchase-button {
+		background-color:#47c871;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-green .pricing-tables-widget-footer .pricing-tables-widget-purchase-button:hover {
+		background-color:#6ed790;
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Red 
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header { 
+	    background-color:#e76258;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header p { 
+		border-bottom:1px solid #ed7066; 
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header h4,
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header p,
+    .pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header span,
+    .pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header .pricing-tables-widget-price,
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header .pricing-tables-widget-savings,
+    .pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header .pricing-tables-widget-purchase,
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-header .pricing-tables-widget-media-holder i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-footer .pricing-tables-widget-purchase-button {
+		background-color:#e76258;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-red .pricing-tables-widget-footer .pricing-tables-widget-purchase-button:hover {
+		background-color:#ed7066;
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Orange 
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header { 
+	    background-color:#ec8f3c;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header p { 
+		border-bottom:1px solid #f6a258; 
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header h4,
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header p,
+    .pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header span,
+    .pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header .pricing-tables-widget-price,
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header .pricing-tables-widget-savings,
+    .pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header .pricing-tables-widget-purchase,
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-header .pricing-tables-widget-media-holder i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-footer .pricing-tables-widget-purchase-button {
+		background-color:#ec8f3c;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-orange .pricing-tables-widget-footer .pricing-tables-widget-purchase-button:hover {
+		background-color:#f6a258;
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Purple 
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header { 
+	    background-color:#e9547e;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header p { 
+		border-bottom:1px solid #f36e93; 
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header h4,
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header p,
+    .pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header span,
+    .pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header .pricing-tables-widget-price,
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header .pricing-tables-widget-savings,
+    .pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header .pricing-tables-widget-purchase,
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-header .pricing-tables-widget-media-holder i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-footer .pricing-tables-widget-purchase-button {
+		background-color:#e9547e;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-purple .pricing-tables-widget-footer .pricing-tables-widget-purchase-button:hover {
+		background-color:#f36e93;
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Light
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section { 
+	    background-color:#fdfdfd;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li {
+		border-top:1px solid #e0e5e5;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li:first-child { border-top:none; }
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li:last-child { border-bottom:none; }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li,
+    .pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li i {
+		color:#92a3b0;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li:hover,
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li:hover i {
+		color:#70828f;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section ul li .pricing-tables-widget-badges {
+        background-color:#ed7066;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section .pricing-tables-widget-tooltip,
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section .pricing-tables-widget-tooltip:before {
+		color:#000;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section .pricing-tables-widget-tooltip {
+background-color: #f8f8f8;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-section .pricing-tables-widget-tooltip.pricing-tables-widget-top-left:after { 
+		border-left:10px solid transparent;
+		border-right:10px solid transparent;
+		border-top:10px solid  #e0e2e4;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-footer { 
+background-color: #292929 !important;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-footer p,
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-footer i,
+	.pricing-tables-widget-default.pricing-tables-widget-light .pricing-tables-widget-footer .pricing-tables-widget-secure{
+        color:#70828f;		
+    }
+	
+/*	--------------------------------------------------
+	:: Pricing Tables Widget Dark
+	-------------------------------------------------- */
+
+    .pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section { 
+	    background-color:#92a3b0;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li {
+		border-top:1px solid #adbbc5;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li:first-child { border-top:none; }
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li:last-child { border-bottom:none; }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li,
+    .pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li i {
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li:hover,
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li:hover i {
+		color:#f9f9f9;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section ul li .pricing-tables-widget-badges {
+        background-color:#ed7066;
+		color:#fdfdfd;
+    }
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section .pricing-tables-widget-tooltip,
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section .pricing-tables-widget-tooltip:before {
+		color:#92a3b0;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section .pricing-tables-widget-tooltip {
+		background-color:#fdfdfd;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-section .pricing-tables-widget-tooltip.pricing-tables-widget-top-left:after { 
+		border-left:10px solid transparent;
+		border-right:10px solid transparent;
+		border-top:10px solid #fdfdfd;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-footer { 
+	    background-color:#70828f;
+	}
+	
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-footer p,
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-footer i,
+	.pricing-tables-widget-default.pricing-tables-widget-dark .pricing-tables-widget-footer .pricing-tables-widget-secure {
+        color:#fdfdfd;		
+    }
