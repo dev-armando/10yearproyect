@@ -1,4 +1,4 @@
-<section class="section">
+<section class="section-tour">
 	<div class="contenedor">
 		<div class="row">
 			<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 tour-info">
@@ -12,7 +12,7 @@
 				<div>
 	                <img src="images/women.png" alt="NerdCom Tours">
 	            </div>
-	            <img src="images/burbijas.png" alt="NerdCom aros"> 
+	            <img class="img-responsive" src="images/burbijas.png" alt="NerdCom aros"> 
 			</div>
 		</div>
 	    <!--<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 animate-box rfresponsive tblar">
