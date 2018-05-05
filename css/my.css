@@ -364,7 +364,6 @@ padding: 0px 0 0px 0;
 opacity: 0.9;
 }
 .sectionc{
-height: 730px;
 position: relative;
 float: left;
 width: 100%;
@@ -372,14 +371,17 @@ padding: 0 0 50px 0;
 background-image: linear-gradient(180deg,#db1b1b,#db1b1b);
 }
 .sectiont{
-    height: 640px;
+  height: 640px;
   background-color: white;
-    position: relative;
-    float: left;
-    width: 100%;
-    padding: 30px 0 50px 0;
+  position: relative;
+  float: left;
+  width: 100%;
+  padding: 30px 0 50px 0;
 }
-
+.community-block{
+  margin: 0% 15% !important;
+  text-align: center;
+}
 .light-shadow{
   border-bottom: 1px solid rgb(255, 255, 255);
   -moz-box-shadow: 2px 2px 5px 0 rgba(55,50,40, .20);
@@ -389,51 +391,22 @@ background-image: linear-gradient(180deg,#db1b1b,#db1b1b);
 
 .community-box{
   color: #FFFFFF;
-  padding: 20px;
-  transition: .3s ease-in-out;
-  -moz-transition: .3s ease-in-out;
-  -webkit-transition: .3s ease-in-out;
+  padding: 15px;
+  border-right: 1px solid #FFFFFF;
+  height: 200px; /*Tamaño de la altura de los boxes, si hay mas texto debe aumentarse*/
 }
-.community-box h1{
-  font-size: 20px;
-  color: #FFFFFF;
+.last-box{
+  border: none !important;
 }
-
-.commu{
-    color: #fff;
-    padding: 40px 15px;
-    transition: .3s ease-in-out;
-    -moz-transition: .3s ease-in-out;
-    -webkit-transition: .3s ease-in-out;
+.community-box i{
+  font-size: 35px;
+  padding: 5px
 }
-.communb {
-  border-right: none !important;
-}
-.commu i {
-    font-size: 35px;
-    color: #fff;
-    width: 40px;
-    height: 40px;
+.community-box h2{
+  padding: 5px;
+  font-weight: bold;
 }
 
-.commu2 {
-    color: #fff;
-    padding: 40px 15px;
-    border-right: 1px solid rgb(255, 255, 255);
-    -moz-box-shadow: 2px 2px 5px 0 rgba(55,50,40, .20);
-    -o-box-shadow: 2px 2px 5px 0 rgba(55,50,40, .20);
-    -ms-box-shadow: 2px 2px 5px 0 rgba(55,50,40, .20);
-    transition: .3s ease-in-out;
-    -moz-transition: .3s ease-in-out;
-    -webkit-transition: .3s ease-in-out;
-}
-.commu2 i {
-    font-size: 35px;
-    color: #fff;
-    width: 40px;
-    height: 40px;
-    /*margin-bottom: 20px;*/
-}
 .separator {
     height: 2px;
     width: 80px;
@@ -460,12 +433,12 @@ padding-bottom: 1em;
   position: relative;
   margin: 0 auto;
 }
-.learning-section-icons{
-
-}
 
 .imagenburbuja{
-  position: absolute; right: 5%; top: 77%; width: 45%;
+  position: absolute; 
+  right: 5%; 
+  top: 77%; 
+  width: 45%;
 }
 .lead {
     font-size: 18px !important;
@@ -593,7 +566,15 @@ margin-top: 2%;
 }
 
 .cimgresponsive{
-display: inline-block; position: relative; overflow: hidden; text-align: right; border-radius: 50%; width: 375px; height: 375px; top: -40px;float: right;
+display: inline-block; 
+position: relative; 
+overflow: hidden; 
+text-align: right; 
+border-radius: 50%; 
+width: 375px; 
+height: 375px; 
+top: -40px;
+float: right;
 }
 .mitads h3{
 font-family: BrandonText-Medium,sans-serif;
@@ -1487,6 +1468,31 @@ height: 100px;
 margin: 0;
 margin: 0px 15px;
 }
+.tour-info{
+  padding: 5%;
+  font-family: 'Raleway', sans-serif;
+}
+.tour-info h1{
+  padding: 5px;
+  font-size: 45px;
+  color: #44B4C4;
+}
+.tour-info p{
+  font-size: 16px;
+  padding: 10px
+}
+.tour-info small{
+  font-size: 12px;
+  display: inline-block;
+  padding: 10px;
+  font-style: oblique;
+}
+.tour-info .image-bubble{
+  position: absolute; 
+  right: 5%; 
+  top: 77%; 
+}
+
 .historiatittle{
 color: #44B4C4;
 font-family: 'Raleway', sans-serif;
@@ -1507,13 +1513,30 @@ color: #333;
 line-height: 1.7;
 }
 .btncom{
-background-color: #db1b1b;color: white;
+background-color: #db1b1b;
+color: white;
 margin-left: 33%;
 }
 .btncom:hover{
 background-color: #950505;
 color: #fff;
 }
+.btn-jumbo{
+  background-color: #db1b1b;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1.25;
+  border-radius: .1875rem;
+  padding: 20px 45px;
+}
+.btn-jumbo:hover{
+  background-color: #fd7878;
+  color: white;
+  -webkit-transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
+  transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
+}
+
 .section_spacer {
     padding-bottom: 22px;
     padding-top: 25px;
