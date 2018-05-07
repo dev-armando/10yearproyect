@@ -385,7 +385,7 @@ opacity: 0.9;
   text-align: center;
   padding: 2% 15%;
 }
-.row > [class*='col-'] {
+.community-block > [class*='col-'] {
   display: flex;
   flex-direction: column;
 }
@@ -1512,49 +1512,66 @@ margin: 0px 15px;
   padding: 5%;
   font-family: 'Raleway', sans-serif;
   height: auto;
+  margin: auto;
+  padding: 5% 10%;
 }
 .tour-info h1{
   padding: 5px;
-  font-size: 6vw;
+  font-size: 2rem;
+  line-height: 1.3125;
   color: #44B4C4;
-
 }
 .tour-info p{
-  font-size: 2vw;
+  font-size: 1rem;
   padding: 10px
 }
+.tour-info a{
+  font-size: 1rem;
+}
+
 .tour-info small{
-  font-size: 2vw;
+  font-size: 0.650rem;
   display: inline-block;
   padding: 10px;
   font-style: oblique;
 }
 
-.tour-info img{
-  display: block;
-  max-width: 100%;
-  height: auto;
-  width: 100%;
+@media (max-width: 970px){
+  .tour-info{
+    text-align: center;
+  }
 }
+
+.image-wrapper{
+  text-align: center;
+}
+
+.women-wrap{
+  overflow: hidden;
+  display: inline-block;
+  text-align: right;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.women-img{
+  background-color: #9a1515;
+  border-radius: 50%;
+  width: 100%
+}
+
+.bubbles-wrap{
+  position: relative;
+  right: 0;
+  bottom: 6rem;
+  margin-bottom: -6rem;
+}
+.bubble-img{
+  width: 100%
+}
+
 
 .tour-info a{
   font-size: 2vh;
-}
-
-.bubbles-img{
-  position: absolute;
-  top: 90%;
-  left: 65%;
-  width: 30%;
-  height: auto;
-}
-
-.women-img{
-  position: absolute;
-  top: 1%;
-  left: 55%;
-  height: 100%;
-  width: 50%;
 }
 
 .historiatittle{
@@ -1586,18 +1603,17 @@ background-color: #950505;
 color: #fff;
 }
 .btn-jumbo{
-  background-color: #db1b1b;
+  background-image: linear-gradient(180deg,#da2626,#901313);
   color: white;
   cursor: pointer;
   display: inline-block;
   line-height: 1.25;
-  border-radius: 1vw;  
+  border-radius: .1875rem; 
   padding: 4% 8%;
   margin: 1% 1% 2%;
-  white-space: normal;
 }
 .btn-jumbo:hover{
-  background-color: #fd7878;
+  background-image: linear-gradient(180deg,#ff0404,#901313);
   color: white;
   -webkit-transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
   transition: 0.15s color ease-out, 0.15s background-color ease-out, 0.15s border-color ease-out;
