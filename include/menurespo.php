@@ -46,7 +46,7 @@
                           <i class="fa fa-server"></i> Alojamiento
                         </a>
                         <div class="megamenu clearfix">
-                          <div class="col-lg-4 col-md-4 col-xs-12">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
                             <p class="submenu-feature">
                               El mejor lugar para alojar tus páginas web, disponible 24h desde cualquier parte del mundo sin limites.
                             </p>
@@ -66,7 +66,7 @@
 
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="iconsize fa fa-lock"></i>&nbsp;&nbsp;Dominios</a>
                         <div class="megamenu clearfix">
-                          <div class="col-lg-4 col-md-4 col-xs-12">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
                             <p class="submenu-feature">Expandir tu empresa en línea comienza con un dominio. El nombre con el que darás a conocer   tu compañía y marca en la web.</p>
                            </div> 
 

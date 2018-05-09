@@ -455,14 +455,14 @@
   -moz-transition: -moz-transform 0.4s, opacity 0.4s;
   -webkit-transition: -webkit-transform 0.4s, opacity 0.4s;}
   
-.wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub{opacity:1; list-style:none; padding:2px; border:solid 1px #eeeeee; background-color:#fff;}
+.wsmenu-list .wsmenu-submenu .wsmenu-submenu-sub li:hover .wsmenu-submenu-sub-sub{opacity:1; list-style:none; padding:2px; border:solid 1px #eeeeee; background-color: black;}
 .wsmenu-submenu li{position:relative; padding:0px; margin:0px; display:block;}
 .wsmenu-click{display:none;}
 .wsmenu-click02{display:none;}
 
 /* Default Theme */ 
 .wsmenu-list li:hover>a{background-color:rgba(0,0,0,0.08) !important; text-decoration:none;}
-.wsmenu-list > li > a:hover {background-color:#fff !important;  text-decoration:none; color: #333;}
+.wsmenu-list > li > a:hover {background-color:#fff !important;  text-decoration:none; color: black;}
 .wsmenu-list > li > a.active{background-color:rgba(0,0,0,0.08) !important; text-decoration:none; }
 .wsmenu-submenu > li > a:hover {background-color:rgba(0,0,0,0.08) !important; border-radius:0px!important; text-decoration:none;  text-decoration:none;}
 
@@ -1061,23 +1061,30 @@
  
 }
 
-#meu-respons-list {
-  text-align: center;
+#meu-respons-list  {
+ width: 90%;
+ 
+
+ 
 }
 
-#meu-respons-list .menu-arrow-1{
-  text-align: center;
+#meu-respons-list li a {
+ text-align: center;
+
+}
+
+
+
+.megamenu{
+  width: 90%;
   margin: auto;
 }
-
-#meu-respons-list .menu-arrow-1  a{
+.submenu-feature{
+  padding: 2em;
+  margin: 0;
   text-align: center;
-  padding: 1.1em;
-}
+  color: black;
 
-#meu-respons-list .menu-arrow-1 a:hover{
- background: white;
- color: black;
 }
   
 
