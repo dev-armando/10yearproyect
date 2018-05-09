@@ -44,7 +44,7 @@ $(function() {
 		
 	window.onresize = function(event) {
 		console.log('window resize');
-		if($(window).width() > 781){
+		if($(window).width() > 1281){
 			$('.wsmenu-submenu').removeAttr("style");
  			$('.wsmenu-list').removeAttr("style");
  		}

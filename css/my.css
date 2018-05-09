@@ -2161,7 +2161,7 @@ nav ul:nth-child(4){
 
   width: 10em;
   
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
 
