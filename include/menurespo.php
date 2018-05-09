@@ -47,12 +47,13 @@
                         </a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
+                            
                             <p class="submenu-feature">
                               El mejor lugar para alojar tus páginas web, disponible 24h desde cualquier parte del mundo sin limites.
                             </p>
 
 
-                            
+
                           <ul class="link-list row">
                            
                             <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="webhosting">
@@ -99,25 +100,34 @@
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="iconsize fa fa-lock"></i>&nbsp;&nbsp;Dominios</a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
-                            <p class="submenu-feature">Expandir tu empresa en línea comienza con un dominio. El nombre con el que darás a conocer   tu compañía y marca en la web.</p>
-                           </div> 
+                            
+                            <p class="submenu-feature">
+                              Expandir tu empresa en línea comienza con un dominio. El nombre con el que darás a conocer   tu compañía y marca en la web.
+                            </p>
+
 
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
                             <li><a href="#">Dominios</a></li>
                             <li><a href="#">Revendedor de Dominios</a></li>
-                          </ul>                      
+                          </ul>
+
+
+                           </div> 
+                      
                         </div>
                       </li>
 
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-sort-alpha-desc"></i>&nbsp;&nbsp;Plataforma</a>
                         <div class="megamenu clearfix">
-
+                           <div class="col-lg-4 col-md-12 col-xs-12">
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
                             <li><a href="#">NerdCom PRo</a></li>
                             <li><a href="#">NerdCom DOC</a></li>
                             <li><a href="#">NerdCom LAW</a></li>
                           </ul>
+                          </div>
                         </div>
+
                       </li>
 
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-shopping-bag"></i>&nbsp;&nbsp;Revendedor</a>
@@ -133,6 +143,7 @@
 
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cloud"></i>&nbsp;&nbsp;Seguridad &amp; Diseño</a>
                         <div class="megamenu clearfix">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
                             <li><a href="#">Verificacion de Identidad</a></li>
                             <li><a href="#">Diseño Web</a></li>
@@ -141,40 +152,74 @@
                             <li><a href="#">SSL</a></li>
                           </ul>
                         </div>
+                        </div>
                       </li>
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-database"></i>&nbsp;&nbsp;Servicios</a>
-                       <div class="megamenu clearfix">
+                      <!-- Servicios -->
+                      <li class="menu-arrow-1">
+                        <span class="wsmenu-click">
+                          <i class="wsmenu-arrow fa fa-angle-down"></i>
+                        </span>
+                        <a href="#" class="text-center">
 
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+
+                          <i class="fa fa-server"></i> Servicios
+                        </a>
+
+
+                        <div class="megamenu clearfix">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
+                            
+                             <ul class="link-list ">
                             <li><a href="#">Impulsa con Éxito</a></li>
                             <li><a href="#">Web SEO</a></li>
                             <li><a href="#">Community Manager</a></li>
                             <li><a href="#">Cooperativas</a></li>
                             <li><a href="#">Streaming Pack</a></li>
                             <li><a href="#">Inteligencia de Negocios</a></li>
-                          </ul>                        </div>
+                          </ul> 
+
+                          </div> 
+                   
+                        </div>
+
                       </li>
 
+                  <!-- Fin de Servicios -->
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Compañía</a>
+
+
+                      <li class="menu-arrow-1">
+                        <span class="wsmenu-click">
+                          <i class="wsmenu-arrow fa fa-angle-down"></i>
+                        </span>
+
+                        <a href="#">
+                          <i class="fa fa-cogs"></i>
+                            &nbsp;&nbsp;Compañía
+                          </a>
+
                         <div class="megamenu clearfix">
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
+                          <ul class="link-list">
                             <li><a href="#">Sobre Nosotros</a></li>
                             <li><a href="#">Clientes</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Equipo</a></li>
-                          </ul>                    
+                          </ul>    
+                          </div>                
 
                         </div>
                       </li>
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Contacto</a>
                         <div class="megamenu clearfix">
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
+                          <ul class="link-list">
                             <li><a href="https://www.nerdcom.host/support">Ayuda y Soporte</a></li>
                             <li><a href="#">Realiza un Pregunta</a></li>
                             <li><a href="#">Preguntas Frecuentes</a></li>
-                          </ul>                    
+                          </ul>  
+                          </div>                  
 
                         </div>
                       </li>

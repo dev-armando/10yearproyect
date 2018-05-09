@@ -22,7 +22,7 @@ $(function() {
 		$(this).siblings('.megamenu').slideToggle('slow');	
 
 
-		alert()
+
 	});
 	
 	//MAIN Menu UL SHOW/HIDE JS
