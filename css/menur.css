@@ -206,7 +206,7 @@
   color: #666666 !important;
   border-right: 0 none !important;
   display:inline-block;
-  border-right:1px solid #e7e7e7;
+  border-right:1px solid white;
   color:#424242;
   font-size: 12px
 }
@@ -229,7 +229,7 @@
   color: #666666 !important;
   border-right: 0 none !important;
   display:block;
-  border-right:1px solid #e7e7e7;
+  border-right:1px solid white;
   background-color:#fff;
   color:#424242;}
 .megacollink .fa{font-size:11px;}
@@ -246,7 +246,7 @@
 .wsmenu-list .megamenu  li a:hover{background:transparent !important; text-decoration:underline;}
 .wsmenu-list .megamenu li .fa {  margin-right:5px;    text-align: center;    width: 18px;}
 .mrgtop{ margin-top:15px; }
-.show-grid div{padding-bottom: 10px; padding-top: 10px; background-color:#dbdbdb; border: 1px solid #e7e7e7; color:#6a6a6a; margin:2px 0px;}
+.show-grid div{padding-bottom: 10px; padding-top: 10px; background-color:#dbdbdb; border: 1px solid white; color:#6a6a6a; margin:2px 0px;}
 
 /*For halfmenu */
 .halfmenu{
@@ -739,20 +739,20 @@
 .mobile-sub .wsmenu-submenu li a{
   line-height:20px;
   height:36px;
-  background-color:#e7e7e7 !important;
+  background-color:white !important;
   font-size:13px !important;
   padding:8px 0px 8px 18px;
   color:#8E8E8E;}
 
-.mobile-sub .wsmenu-submenu li a:hover{ background-color:#e7e7e7  !important; color:#666666; text-decoration:underline; }
-.mobile-sub .wsmenu-submenu li:hover>a{ background-color:#e7e7e7 !important; color:#666666; }
-.mobile-sub .wsmenu-submenu li .wsmenu-submenu-sub li a{line-height:20px; height:36px; background-color:#e7e7e7 !important; border-bottom:none; padding-left:28px;}
-.mobile-sub .wsmenu-submenu li .wsmenu-submenu-sub li .wsmenu-submenu-sub-sub li a{line-height:20px; height:36px; background-color:#e7e7e7 !important; border-bottom:none !important; padding-left:38px; color:#8e8e8e;}
+.mobile-sub .wsmenu-submenu li a:hover{ background-color:white  !important; color:#666666; text-decoration:underline; }
+.mobile-sub .wsmenu-submenu li:hover>a{ background-color:white !important; color:#666666; }
+.mobile-sub .wsmenu-submenu li .wsmenu-submenu-sub li a{line-height:20px; height:36px; background-color:white !important; border-bottom:none; padding-left:28px;}
+.mobile-sub .wsmenu-submenu li .wsmenu-submenu-sub li .wsmenu-submenu-sub-sub li a{line-height:20px; height:36px; background-color:white !important; border-bottom:none !important; padding-left:38px; color:#8e8e8e;}
 
 
 
 .wsmenu-list .megamenu{
-  background-color:#e7e7e7;
+  background-color:white;
   color:#666666;
   display:none;
   position:relative !important;
@@ -780,7 +780,7 @@
   padding:9px 14px !important;
   line-height:normal !important;
   font-size:13px !important;
-  background-color:#e7e7e7 !important;
+  background-color:white !important;
   color:#666666;}
   
 .megamenu > ul > li > a:hover{background-color:#000000 !important;}
@@ -799,7 +799,7 @@
 .halfdiv{ width:100%; display:block;}
 .halfmenu{width:100%; display:block;}
 
-.menu_form{ padding:10px 10px 63px 10px; background-color: #e7e7e7;}
+.menu_form{ padding:10px 10px 63px 10px; background-color: white;}
 
 .menu_form input[type="button"]{ width:46%; }
 .menu_form input[type="submit"]{ width:46%; } 
@@ -1082,7 +1082,7 @@
 .submenu-feature{
   padding: 2em;
   margin: 0;
-  text-align: center;
+  text-align: justify;
   color: black;
 
 }
@@ -1096,6 +1096,10 @@
   width: 16em;
 
  
+}
+
+.link-list li{
+  text-align: right;
 }
 
 }

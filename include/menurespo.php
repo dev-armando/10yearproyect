@@ -50,17 +50,49 @@
                             <p class="submenu-feature">
                               El mejor lugar para alojar tus páginas web, disponible 24h desde cualquier parte del mundo sin limites.
                             </p>
-                           </div> 
 
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
-                            <li><a href="webhosting">Web Hosting</a></li>
-                            <li><a href="#">Cloud Hosting</a></li>
-                            <li><a href="#">WordPress Hosting</a></li>
-                            <li><a href="#">Web Hosting Design</a></li>
-                            <li><a href="#">Servidores Dedicados</a></li>
+
+                            
+                          <ul class="link-list row">
+                           
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="webhosting">
+                             
+                       
+                                Web Hosting
+                                  <i class="fa fa-server"></i>
+                       
+                            </a></li>
+
+
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="#">Cloud Hosting</a></li>
+                            <li><a href="#">
+                               
+                                   WordPress Hosting
+                                   <i class="fa fa-wordpress"></i>
+                              
+                           
+
+
+                          </a></li>
+                            <li><a href="#">
+                                
+                                     Web Hosting Design
+                                   <i class="fa fa-soundcloud"></i>
+                               
+                            </a></li>
+                            <li><a href="#">
+                                
+                              Servidores Dedicados
+                              <i class="fa fa-soundcloud"></i>
+                              
+                            </a></li>
                             <li><a href="#">Streaming Hosting</a></li>
                             <li><a href="#">Virtual Private Server</a></li>
-                          </ul>                    
+                          </ul> 
+                          
+
+                          </div> 
+                   
                         </div>
                       </li>
 
@@ -139,7 +171,7 @@
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Contacto</a>
                         <div class="megamenu clearfix">
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
-                            <li><a href="#">Ayuda y Soporte</a></li>
+                            <li><a href="https://www.nerdcom.host/support">Ayuda y Soporte</a></li>
                             <li><a href="#">Realiza un Pregunta</a></li>
                             <li><a href="#">Preguntas Frecuentes</a></li>
                           </ul>                    
@@ -156,8 +188,10 @@
     <i class="fa fa-shopping-cart"></i></a>
   </li>
 
- <li class="lig1" ><a  href="https://www.panel.nerdcom.host/">
-  <i  class="fa fa-user"></i></a></li>
+ <li class="lig1" >
+    <a  href="https://www.panel.nerdcom.host/">
+    <i  class="fa fa-user"></i></a>
+</li>
  <li class="lig1" ><a  href="https://www.nerdcom.host/support">
   <i  class="fa fa-question-circle"></i></a></li>
  <li class="lig1"  id="btnphone" data-toggle="modal" data-target="#modalContactForm">
