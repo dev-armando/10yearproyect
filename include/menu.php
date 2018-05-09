@@ -1,51 +1,141 @@
 <header id="cabeza" class="cabecero">
-    <div class="contenedor">
+  <div class="contenedor">
         <h1 class="oculto">NerdCom</h1>
+      
         <nav>
             <ul id="menu" class="menu">
-              <li class="lig1" style="margin: 0 50px 0 0"><a href="https://nerdcom.host/" class="" style="width: 140px;"><img alt="NerdCom" id="logop" src="images/logon.png" class="NerdCom"><span class="oculto">NerdCom</span></a></li>
-            <li class="lig1"><a href="#" class="linka">Alojamiento<span class="labela"></span></a>
-            <ul class="dropsm col-3">    
-            <li class="lidrop norml"><a class="linkbox" href="webhosting">
+             
+              <li class="lig1 li-logo" >
+                  <a href="https://nerdcom.host/" >
+                  <img alt="NerdCom" id="logop" src="images/logon.png" class="NerdCom">
+                  <span class="oculto">NerdCom</span>
+                </a>
+                
+              </li>
+
+            <li class="lig1">
+              <a href="#" class="linka">
+                Alojamiento  <span class="labela"></span> 
+              </a>
+
+
+            <ul class="dropsm col-3">  
+
+            <li class="lidrop norml">
+              <a class="linkbox" href="webhosting">
                 <h4 class="texttm">Alojamiento Web</h4>
-                <p class="descrplm"><span>El mejor espacio  para alojar tus páginas web, Seguro y disponible 24 horas.</span></p></a>
+                <p class="descrplm">
+                  <span>
+                  El mejor espacio  para alojar tus páginas web, Seguro y disponible 24 horas.
+                  </span>
+                </p>
+              </a>
+
+
             <a class="linkbox" href="cloudhosting">
-                <h4 class="texttm">Cloud Hosting</h4>
-               <p class="descrplm"><span>Ofrecemos una expansión en la capacidad de recursos ilimitados de almacenamiento.</span></p></a>
+               
+                <h4 class="texttm"> Cloud Hosting</h4>
+
+               <p class="descrplm">
+                  <span>
+                 Ofrecemos una expansión en la capacidad de recursos ilimitados de almacenamiento.
+                  </span>
+                </p>
+              </a>
+
             <a class="linkbox" href="wordpress">
                 <h4 class="texttm">Wordpress Hosting</h4>
-               <p class="descrplm"><span>Plan diseñado para sitios WordPress  que cuenta con un  equipo especializado.</span></p></a>
+               <p class="descrplm">
+                <span>
+                Plan diseñado para sitios WordPress  que cuenta con un  equipo especializado.
+              </span>
+              </p>
+            </a>
+
              </li>
 
             <li class="lidrop norml">
             <a class="linkbox" href="dedicados">
-                <h4 class="texttm">Servidores Dedicados</h4>
-               <p class="descrplm"><span>Web's de tráfico alto o con necesidad de amplios recursos de transferencia.</span></p></a>
+                
+                <h4 class="texttm"
+                >Servidores Dedicados
+                </h4>
+               <p class="descrplm">
+
+                <span>
+                Web's de tráfico alto o con necesidad de amplios recursos de transferencia.
+              </span></p>
+            </a>
             <a class="linkbox" href="streaming">
                 <h4 class="texttm">Streaming Hosting</h4>
-               <p class="descrplm"><span>Tecnología que lleva tu emisora en línea a tu público de manera eficiente.</span></p></a>
+
+               <p class="descrplm">
+                <span>
+                Tecnología que lleva tu emisora en línea a tu público de manera eficiente.
+                </span>
+              </p>
+           </a>
+
             <a class="linkbox" href="vps">
-                <h4 class="texttm">Virtual Private Server "VPS"</h4>
-               <p class="descrplm"><span>Dispone recursos que conceden más potencia que un hosting compartido.</span></p></a>
-             </li>
-            <li class="lidrop norml">
+                <h4 class="texttm">
+                Virtual Private Server "VPS"
+              </h4>
+              
+               <p class="descrplm">
+                <span>
+                  Dispone recursos que conceden más potencia que un hosting compartido.
+                </span>
+                </p>
+            </a>
+          </li>
+          
+          <li class="lidrop norml">
             <a class="linkbox" href="webhostingdesign">
                 <h4 class="texttm">Web Hosting Design</h4>
-               <p class="descrplm"><span>Web hosting + Dominio + WorPress + 1 Especialista enfocado en tu web.</span></p></a>
-          <a class="linkbox" href="businerss-email-hosting">
+               <p class="descrplm">
+                <span>
+                 Web hosting + Dominio + WorPress + 1 Especialista enfocado en tu web.
+               </span>
+              </p>
+            </a>
+            <a class="linkbox" href="businerss-email-hosting">
                 <h4 class="texttm">Business Email</h4>
-               <p class="descrplm"><span>Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.</span></p></a>
-               <a class="linkbox" href="enterprise-email-hosting">
+               <p class="descrplm">
+                <span>Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.</span>
+              </p>
+            </a>
+
+            <a class="linkbox" href="enterprise-email-hosting">
                 <h4 class="texttm">Enterprise Email</h4>
-               <p class="descrplm"><span>Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.</span></p></a>
+               <p class="descrplm">
+                <span>
+                  Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.
+                </span>
+              </p>
+            </a>
              </li>
-             <li class="lidrop norml nbb">
+
+        <li class="lidrop norml nbb ">
+              
             <a class="linkbox" href="gsuite">
-                <h4 class="texttm">GSuite</h4>
-               <p class="descrplm"><span>Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.</span></p></a>
-<a class="linkbox" href="#" style="width: 50%">
-                <h4 class="texttm" style="text-align: center;padding: 5%;"><i class="fa fa-lock" style="color: #5bc758"></i> Rapido Acceso a Control Panel</h4>
-                </a></li>
+                <h4 class="texttm">
+                GSuite
+              </h4>
+               <p class="descrplm">
+                <span>Web hosting + Dominio + WorPress + 1 Especialista enfocado para tu web.
+                </span>
+              </p>
+            </a>
+
+          <a class="linkbox gsuite" href="#" >
+                <h4 class="texttm" >
+                  <i class="fa fa-lock"></i>
+                   Rapido Acceso a Control Panel
+                 </h4>
+            </a>
+        </li>
+
+
             </ul>
             </li>
               <li class="lig1"><a href="#" class="linka">Dominios<span class="labela"></span></a>
@@ -58,8 +148,10 @@
                 <p class="descrplm"><span>Comienza a vender dominios sin inversión previa, benefíciate de nuestra oferta y genera ganancias.</span></p></a>
             <div class="linkbox" style="width: 40%">
                 <h4 class="texttm" style="text-align: left !important;padding: 0 25px;">Incluye</h4>
-<ul style="padding: 0 15px;">
-                <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">Manejo de DNS<span class="gratis"></span></a></li>
+
+
+<ul>
+      <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">Manejo de DNS<span class="gratis"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">Bloqueo de Transferencia<span class="gratis"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="dominio/dominioprivacidad.php">Privacidad<span class="valord"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="https://panel.nerdcom.host/clientarea.php?action=domains">Auto Renovación<span class="gratis"></span></a></li>
@@ -222,11 +314,14 @@
                 <ul class="lidrop nbb" style="width: 100%;display: inline-block !important;padding: 20px 0;">
 <li class="flag"><div class="ovhFlag us"></div><p>USA</p></li>
 <li class="flag"><div class="ovhFlag mx"></div><p>Mexico</p></li>
-<li class="flag"><div class="ovhFlag rd"></div><p>República Dominicana</p></li>
+
 <li class="flag"><div class="ovhFlag cl"></div><p>Chile</p></li>
 <li class="flag"><div class="ovhFlag ar"></div><p>Argentina</p></li>
 <li class="flag"><div class="ovhFlag ve"></div><p>Venezuela</p></li>
+<li class="flag"><div class="ovhFlag rd"></div><p>República Dominicana</p></li>
 </ul>
+
+
                 <h4 class="texttm" style="text-align: left !important;padding: 0 25px;">Europa</h4>
  <ul class="lidrop nbb" style="width: 100%;display: inline-block !important;padding: 20px 0;">
 <li class="flag"><div class="ovhFlage es"></div><p>España</p></li>

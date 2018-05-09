@@ -3,31 +3,81 @@
         <h1 class="oculto">NerdCom</h1>
         <nav>
             <ul id="menu" class="menu">
-              <li><a href="https://nerdcom.host/" class="ir_a"><img alt="NerdCom" id="logop" src="images/logon.png" class="NerdCom"><span class="oculto">NerdCom</span></a></li>
-            <li class="lig1"><a href="#" class="linka">Alojamiento<span class="labela"></span></a>
+
+                <!-- Imagen  -->
+              <li>
+                <a href="https://nerdcom.host/" class="ir_a">
+                  <img alt="NerdCom" id="logop" src="images/logon.png" class="NerdCom">
+                  <span class="oculto">NerdCom</span></a>
+              </li>
+              <!-- Fin de la imagen  -->
+
+          <!-- Lista desplegable   -->
+            <li class="lig1">
+              <a href="#" class="linka">
+                Alojamiento
+                <span class="labela"></span>
+              </a>
+
             <ul class="dropsm col-3">    
-            <li class="lidrop norml"><a class="linkbox" href="webhosting">
-                <h4 class="texttm">Alojamiento Web</h4>
-                <p class="descrplm"><span>El mejor lugar para alojar tu páginas web ,disponible 24h desde cualquier parte del mundo sin limites.</span></p></a>
-            <a class="linkbox" href="cloudhosting">
-                <h4 class="texttm">Cloud Hosting</h4>
-               <p class="descrplm"><span>Ofrecemos una expansión en la capacidad de recursos ilimitados, de rápido crecimiento.</span></p></a>
-            <a class="linkbox" href="wordpress">
-                <h4 class="texttm">Wordpress Hosting</h4>
-               <p class="descrplm"><span>Nuestro plan especial para WordPress cuenta con un equipo especializado y la mejor seguridad en minutos.</span></p></a>
-             </li>
+          
 
             <li class="lidrop norml">
-            <a class="linkbox" href="dedicados">
-                <h4 class="texttm">Servidores Dedicados</h4>
-               <p class="descrplm"><span>Para sitios de tráfico alto o con necesidad de amplios recursos de transferencia, flexibilidad y rendimiento.</span></p></a>
-            <a class="linkbox" href="streaming">
-                <h4 class="texttm">Streaming Hosting</h4>
-               <p class="descrplm"><span>Tecnología que lleva tu emisora en línea a tu público de manera eficiente, con rapidez y calidad en reproducción.</span></p></a>
-            <a class="linkbox" href="vps">
-                <h4 class="texttm">Virtual Private Server "VPS"</h4>
-               <p class="descrplm"><span>Cuenta con recursos que conceden más potencia y flexibilidad que un hosting compartido.</span></p></a>
+              <a class="linkbox" href="webhosting">
+                
+                <h4 class="texttm">
+                  Alojamiento Web
+                </h4>
+               
+                <p class="descrplm">
+                  <span>
+                    El mejor lugar para alojar tu páginas web ,disponible 24h desde cualquier parte del mundo sin limites.
+                  </span>
+                </p>
+             
+              </a>
+
+
+            <a class="linkbox" href="cloudhosting">
+                
+                <h4 class="texttm">
+                Cloud Hosting
+                </h4>
+
+               <p class="descrplm">
+
+                <span>
+                Ofrecemos una expansión en la capacidad de recursos ilimitados, de rápido crecimiento.</span>
+              </p>
+            </a>
+
+            <a class="linkbox" href="wordpress">
+                <h4 class="texttm">
+                  Wordpress Hosting
+                </h4>
+               <p class="descrplm">
+                <span>
+                Nuestro plan especial para WordPress cuenta con un equipo especializado y la mejor seguridad en minutos.
+              </span>
+               </p>
+            </a>
+
+          </li>
+
+            <li class="lidrop norml">
+              <a class="linkbox" href="dedicados">
+                 
+                  <h4 class="texttm"> Servidores Dedicados </h4>
+                 <p class="descrplm"><span>Para sitios de tráfico alto o con necesidad de amplios recursos de transferencia, flexibilidad y rendimiento.</span></p></a>
+              <a class="linkbox" href="streaming">
+                  <h4 class="texttm">Streaming Hosting</h4>
+                 <p class="descrplm"><span>Tecnología que lleva tu emisora en línea a tu público de manera eficiente, con rapidez y calidad en reproducción.</span></p></a>
+              <a class="linkbox" href="vps">
+                  <h4 class="texttm">Virtual Private Server "VPS"</h4>
+                 <p class="descrplm"><span>Cuenta con recursos que conceden más potencia y flexibilidad que un hosting compartido.</span></p></a>
              </li>
+
+
             <li class="lidrop norml">
             <a class="linkbox" href="webhostingdesign">
                 <h4 class="texttm">Web Hosting Design</h4>
@@ -47,6 +97,10 @@
                 <h4 class="texttm" style="text-align: center;padding: 5%;"><img src="images/bloqueado.png"> Rapido Acceso a Control Panel</h4>
                 </a></li>
             </ul>
+
+
+
+
             </li>
               <li class="lig1"><a href="#" class="linka">Dominios<span class="labela"></span></a>
             <ul class="dropsm col-45">    

@@ -1,14 +1,40 @@
-  <div class="wsmobileheader clearfix" style="width: 100%;height: 60px;">
-  <div class="butonx" style="width: 50%;height: 60px;position: relative;">
-  <a id="wsnavtoggle" class="animated-arrow" style="color: #000;float: left;width: 30px;height: 30px;"><span style="top: 13px;"></span></a><span class="ocults" style="font-size: 12px;font-weight: 600;position: absolute;right: 0;top: 20px;">Todos los Productos</span></div>
-  <div style="width: 50%;height: 60px;position: relative;" class="ocults">
-  <a style="color: #000;float:right;padding-right: 15px;padding-top: 15px;" href="https://www.nerdcom.host/ofertas"><span class="ocults" style="font-size: 12px;font-weight: 600;">Ofertas</span></a></div>
+  <div class="wsmobileheader clearfix menu-responsive" >
+ 
+  <div class="butonx" >
+    
+    <a id="wsnavtoggle" class="animated-arrow" >
+
+      <span></span>
+    </a>
+
+    <span class="ocults" >
+    Todos los Productos
+  </span>
+
   </div>
+
+  <div  class="ocults ocults2">
+    <a  href="https://www.nerdcom.host/ofertas">
+    <span class="ocults" style="">Ofertas</span>
+  </a>
+</div>
+
+</div>
+
+
+
   <div class="headernav">
   <div class="wrapper clearfix bigmegamenu">
  <!--Main Menu HTML Code-->
-      <nav class="wsmenu clearfix" style="overflow-y: auto;">
-          <div class="logo clearfix col-sm-2"><a href="index.php" title="Responsive Slide Menus"><img src="images/logob.png" class="" alt="nerdcomhost" style="width: 140px;"></a><h1 style="font-size: 24px;font-weight: 600;letter-spacing: 1px;">Productos</h1></div>
+      <nav class="wsmenu clearfix" >
+          <div class="logo clearfix col-sm-2">
+            <a href="index.php" title="Responsive Slide Menus">
+              <img src="images/logob.png" class="" alt="nerdcomhost" style="width: 140px;">
+            </a>
+            <h1 >Productos
+            </h1>
+          </div>
+                    
                     <ul class="mobile-sub wsmenu-list">
                       <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-server"></i> Alojamiento</a>
                         <div class="megamenu clearfix">
@@ -115,12 +141,19 @@
                       <li class="menu-arrow-1"><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Panel</a>
                         </li>
 
-                      <li class="menu-arrow-1">
-<ul style="color: #000;height: 50px;width: 100%;line-height: 55px;text-align: center;list-style: none;">
- <li class="lig1" style="width: 25%;float: right;"><a style="color: inherit;" href="https://panel.nerdcom.host/cart.php?a=view"><i style="font-size:25px;" class="fa fa-shopping-cart"></i></a></li>
- <li class="lig1" style="width: 25%;float: right;"><a style="color: inherit;" href="https://www.panel.nerdcom.host/"><i style="font-size:25px;" class="fa fa-user"></i></a></li>
- <li class="lig1" style="width: 25%;float: right;"><a style="color: inherit;" href="https://www.nerdcom.host/support"><i style="font-size:25px;" class="fa fa-question-circle"></i></a></li>
- <li class="lig1" style="width: 25%;float: right;" id="btnphone" data-toggle="modal" data-target="#modalContactForm"><i style="font-size:25px;" class="fa fa-phone"></i>
+<li class="menu-arrow-1">
+<ul >
+ <li class="lig1" >
+  <a  href="https://panel.nerdcom.host/cart.php?a=view">
+    <i class="fa fa-shopping-cart"></i></a>
+  </li>
+
+ <li class="lig1" ><a  href="https://www.panel.nerdcom.host/">
+  <i  class="fa fa-user"></i></a></li>
+ <li class="lig1" ><a  href="https://www.nerdcom.host/support">
+  <i  class="fa fa-question-circle"></i></a></li>
+ <li class="lig1"  id="btnphone" data-toggle="modal" data-target="#modalContactForm">
+  <i  class="fa fa-phone"></i>
 </li></ul>
                         </li>
 

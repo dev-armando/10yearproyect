@@ -2,7 +2,9 @@
   <div class="container" style="position: relative;">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 text-center no-padding">
-        <h1>Powerful <br class="visible-xs"> Web Hosting</h1>
+        <br>
+        <br>
+        <h1 class="res" >Powerful <br class="visible-xs"> Web Hosting</h1>
         <h2 class="leads">Web hosting made EASY <br class="visible-xs">and AFFORDABLE.</h2>
       </div>
       <div class="text-center price-block">
