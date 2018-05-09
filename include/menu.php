@@ -151,7 +151,10 @@
 
 
 <ul>
-      <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">Manejo de DNS<span class="gratis"></span></a></li>
+      <li style="display: block;padding: 0 0">
+        <a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">
+          Manejo de DNS
+          <span class="gratis"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="httsp://panel.nerdcom.host/clientarea.php?action=domains">Bloqueo de Transferencia<span class="gratis"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="dominio/dominioprivacidad.php">Privacidad<span class="valord"></span></a></li>
                 <li style="display: block;padding: 0 0"><a style="position: relative;padding: 5px;font-weight: 500;color: #33475b;font-size: 12px;" href="https://panel.nerdcom.host/clientarea.php?action=domains">Auto Renovación<span class="gratis"></span></a></li>
@@ -255,7 +258,8 @@
 
              </ul>
             </li>
-              <li class="lig1"><a href="#" class="linka">Compañia<span class="labela"></span></a>
+              <li class="lig1">
+                <a href="#" class="linka">Compañia<span class="labela"></span></a>
             <ul class="dropsm col-34" style="width: 65%;">    
             <li class="lidrop porce nbb"><div class="linkbox">
                 <h4 class="texttm" style="text-align: left !important;padding: 0 25px;">Empresa</h4>
