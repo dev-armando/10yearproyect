@@ -27,21 +27,19 @@ if (dato1 == "AbrirLogin") {
 
     });
 
-$(".fancybox").fancybox();
-    $('.ir_a').click(function(event) {
+
+//esta funcion da error 
+//$(".fancybox").fancybox();
+
+$('.ir_a').click(function(event) {
         event.preventDefault();
         $('html, body').animate({
             scrollTop: $(this.hash).offset().top-75
         }, 1000);
     });
-if($(window).width()<= 780){
-    $('#menumob').removeClass('oculto');
-    $('#menun').addClass('oculto');
-}
-else{
-    $('#menumob').addClass('oculto');
-    $('#menun').removeClass('oculto');
-}
+
+
+
 
 // domain slider settings
 function DomainSlider() {
