@@ -2252,19 +2252,9 @@ font-size: 12px;font-weight: 600;
   color: #5bc758;
 }
 
-.company{
-  width: 65%;
-}
 
 
-.company  h4{
-  text-align: left !important;padding: 0 25px;
-}
-
-.company {
- padding: 0 15px;
-}
-
-.company li {
- display: block;padding: 0 0"><a style="position: relative;padding: 10px;font-weight: 500;color: #33475b;font-size: 14px;
+.titulo-menu-respo{
+  position: absolute;
+  right: 0 ;
 }

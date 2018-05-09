@@ -7,17 +7,16 @@
       <span></span>
     </a>
 
-    <span class="ocults" >
-    Todos los Productos
-  </span>
+
+    <a  href="https://www.nerdcom.host/ofertas" class="btn btn-primary ocults">
+      Ofertas
+    </a>
+ 
+
 
   </div>
 
-  <div  class="ocults ocults2">
-    <a  href="https://www.nerdcom.host/ofertas">
-    <span class="ocults" style="">Ofertas</span>
-  </a>
-</div>
+ 
 
 </div>
 
