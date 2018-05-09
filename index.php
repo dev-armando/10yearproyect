@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>NerdCom Host</title>
-	<meta charset="UTF-8">
-	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta charset="UTF-8">
+  <title>NerdCom Host</title>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="images/favicon.ico">
     <script src="js/jquery.min.js"></script>
@@ -43,7 +43,6 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
 <script type="text/javascript">
   var Chatstack = {};
   Chatstack.server = 'panel.nerdcom.host/modules';
-
   (function(d, $, undefined) {
     $(window).ready(function() {
       Chatstack.e = []; Chatstack.ready = function (c) { Chatstack.e.push(c); }
@@ -59,7 +58,6 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-101111183-1');
 </script>
 <script>
@@ -79,7 +77,6 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-101111183-1');
 </script>
 </head>
@@ -117,7 +114,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?php include('include/tours.php');?>
 <?php include('include/footer.php');?>
 <div class="modal fade" id="modalContactForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="background: rgba(0, 0, 0, 0.6) none repeat scroll 0% 0%; display: none;">
-
           <div class="modal-content" style="height: 200px;width: 100%;top: 30%;position: absolute;">
     <h1 style="font-size: 40px;top: 50px;position: relative;width: 100%;text-align: center;">1.929.273.0923</h1>
   <div style="width: 50%;float: left;top: 100px;position: relative;border-top: 1px solid #b3b3b3;padding-top: 15px;"  data-dismiss="modal" aria-label="Close"><h3 style="font-size: 20px;font-weight: 600;text-align: center;">Cancelar</h3></div>

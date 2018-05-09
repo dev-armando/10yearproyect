@@ -11,15 +11,18 @@ if (dato1 == "AbrirLogin") {
             $('#cabeza').removeClass('cabecero').addClass('cabecero2');
             $('#menu').addClass('menu2');       
             $('.linka').addClass('scrlm');        
-            $("#logop").attr("src","images/logob.png");
+            $("#menu #logop").attr("src","images/logob.png");
+     
 
         }
         else{
+
             $('#ir_inicio').addClass('inicio').removeClass('inicio_scroll');
             $('#cabeza').addClass('cabecero').removeClass('cabecero2');        
             $('#menu').removeClass('menu2');        
             $('.linka').removeClass('scrlm');   
-            $("#logop").attr("src","images/logon.png");
+            $("#menu #logop").attr("src","images/logon.png");
+
           }
 
     });
