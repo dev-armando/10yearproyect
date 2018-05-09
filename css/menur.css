@@ -66,20 +66,22 @@
 
   color:#fff;
   font-size:13px;
-  padding:0px;
+  padding: 2em;
   width:80%;
-  float:right;
+
   -webkit-border-radius:2px 2px 2px 2px;
   -moz-border-radius:2px 2px 2px 2px;
   border-radius:2px 2px 2px 2px;
+
+  text-align: center;
 }
 
 
 .wsmenu-list{
-  text-align:left;
+  text-align:center;
   margin:0 auto 0 auto;
   width:100%;
-  display: table;
+  display: inline-block;
   padding:0px;}
   
 .wsmenu-list > li{
@@ -97,6 +99,7 @@
   -moz-border-radius:2px 2px 2px 2px;
   border-radius:2px 2px 2px 2px;
   border-right:0px solid;
+  text-align: center;
   }
   
 .wsmenu-list > li > a .fa{
@@ -130,6 +133,7 @@
     text-transform: uppercase;
     font-weight: 500;
     font-size: 11px;
+    text-align: center;
 }
 
 .wsmenu-list li a:hover .arrow:after{ border-top-color:#b3b3b3}
@@ -818,6 +822,7 @@
   transition: all 0.4s ease-in-out;
   border:none !important;
   background-color:#fff !important;
+  text-align: center;
   }
 
 /*.wsoffcanvasopener .wsmenu {
@@ -1031,6 +1036,61 @@
   opacity:1  !important;
   }
 
+.wsmenu-list li{
+
+  text-align: center;
+}
+
+#menu_respons{
+  text-align:center;
+  width: 80%;
+  margin: auto;
+
+}
+
+#menu_respons .logo{
+
+  width: 100%;
+    padding: 0em;
+ 
+}
+
+#menu_respons .logo img{
+  width: 22em;
+
+ 
+}
+
+#meu-respons-list {
+  text-align: center;
+}
+
+#meu-respons-list .menu-arrow-1{
+  text-align: center;
+  margin: auto;
+}
+
+#meu-respons-list .menu-arrow-1  a{
+  text-align: center;
+  padding: 1.1em;
+}
+
+#meu-respons-list .menu-arrow-1 a:hover{
+ background: white;
+ color: black;
+}
   
 
 }
+
+@media only screen and (max-width: 500px){
+
+#menu_respons .logo img{
+  width: 16em;
+
+ 
+}
+
+}
+
+

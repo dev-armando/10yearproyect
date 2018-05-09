@@ -20,6 +20,9 @@ $(function() {
 		$(".wsmenu-submenu, .megamenu").not($(this).siblings('.wsmenu-submenu, .megamenu')).slideUp('slow');
 		$(this).siblings('.wsmenu-submenu').slideToggle('slow');
 		$(this).siblings('.megamenu').slideToggle('slow');	
+
+
+		alert()
 	});
 	
 	//MAIN Menu UL SHOW/HIDE JS
@@ -44,7 +47,7 @@ $(function() {
 		
 	window.onresize = function(event) {
 		console.log('window resize');
-		if($(window).width() > 1281){
+		if($(window).width() > 300){
 			$('.wsmenu-submenu').removeAttr("style");
  			$('.wsmenu-list').removeAttr("style");
  		}

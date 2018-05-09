@@ -25,17 +25,26 @@
   <div class="headernav">
   <div class="wrapper clearfix bigmegamenu">
  <!--Main Menu HTML Code-->
-      <nav class="wsmenu clearfix" >
+      <nav class="wsmenu clearfix" id=menu_respons >
           <div class="logo clearfix col-sm-2">
             <a href="index.php" title="Responsive Slide Menus">
-              <img src="images/logob.png" class="" alt="nerdcomhost" style="width: 140px;">
+              <img src="images/logob.png" class="" alt="nerdcomhost" >
             </a>
             <h1 >Productos
             </h1>
           </div>
                     
-                    <ul class="mobile-sub wsmenu-list">
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-server"></i> Alojamiento</a>
+                    <ul class="mobile-sub wsmenu-list" id="meu-respons-list">
+                      <li class="menu-arrow-1">
+                        <span class="wsmenu-click">
+
+                          <i class="wsmenu-arrow fa fa-angle-down"></i>
+                        </span>
+                        <a href="#" class="text-center">
+
+
+                          <i class="fa fa-server"></i> Alojamiento
+                        </a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-4 col-xs-12">
                             <p class="submenu-feature">
