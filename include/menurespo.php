@@ -113,11 +113,12 @@
                               Expandir tu empresa en línea comienza con un dominio. El nombre con el que darás a conocer   tu compañía y marca en la web.
                             </p>
 
-
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                          <div class="col-lg-4 col-md-12 col-xs-12">
+                          <ul class="link-list">
                             <li><a href="#">Dominios</a></li>
                             <li><a href="#">Revendedor de Dominios</a></li>
                           </ul>
+                          </div>
 
 
                            </div> 
@@ -132,7 +133,7 @@
                       &nbsp;&nbsp;Plataforma</a>
                         <div class="megamenu clearfix">
                            <div class="col-lg-4 col-md-12 col-xs-12">
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                          <ul class="link-list">
                             <li><a href="#">NerdCom PRo</a></li>
                             <li><a href="#">NerdCom DOC</a></li>
                             <li><a href="#">NerdCom LAW</a></li>
@@ -146,12 +147,13 @@
                         <img  class="icono" src="https://png.icons8.com/material/50/000000/reseller.png">
                       &nbsp;&nbsp;Revendedor</a>
                         <div class="megamenu clearfix"> 
-
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                           <div class="col-lg-4 col-md-12 col-xs-12">
+                          <ul class="link-list">
                             <li><a href="#">Revendedor Hosting</a></li>
                             <li><a href="#">Revendedor de Dominio</a></li>
                             <li><a href="#">Socio Estrategico "Partner"</a></li>
                           </ul>
+                        </div>
                         </div>
                       </li>
 
@@ -160,7 +162,7 @@
                       &nbsp;&nbsp;Seguridad &amp; Diseño</a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
-                          <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
+                          <ul class="link-list">
                             <li><a href="#">Verificacion de Identidad</a></li>
                             <li><a href="#">Diseño Web</a></li>
                             <li><a href="#">Identidad Corporativa</a></li>
