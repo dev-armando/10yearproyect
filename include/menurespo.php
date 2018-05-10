@@ -43,7 +43,9 @@
                         <a href="#" class="text-center">
 
 
-                          <i class="fa fa-server"></i> Alojamiento
+                         <img class="icono" src="https://png.icons8.com/material/50/000000/root-server.png">
+                           Alojamiento
+
                         </a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
@@ -60,16 +62,20 @@
                              
                        
                                 Web Hosting
-                                  <i class="fa fa-server"></i>
+                                 
                        
                             </a></li>
 
 
-                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12"><a href="#">Cloud Hosting</a></li>
+                            <li class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+
+                              <a href="#">Cloud Hosting</a>
+                            </li>
+
                             <li><a href="#">
                                
                                    WordPress Hosting
-                                   <i class="fa fa-wordpress"></i>
+                                 
                               
                            
 
@@ -78,13 +84,13 @@
                             <li><a href="#">
                                 
                                      Web Hosting Design
-                                   <i class="fa fa-soundcloud"></i>
+                           
                                
                             </a></li>
                             <li><a href="#">
                                 
                               Servidores Dedicados
-                              <i class="fa fa-soundcloud"></i>
+                             
                               
                             </a></li>
                             <li><a href="#">Streaming Hosting</a></li>
@@ -97,7 +103,9 @@
                         </div>
                       </li>
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="iconsize fa fa-lock"></i>&nbsp;&nbsp;Dominios</a>
+                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">
+                        <img class="icono" src="https://png.icons8.com/material/50/000000/domain.png">
+                      &nbsp;&nbsp;Dominios</a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
                             
@@ -117,7 +125,11 @@
                         </div>
                       </li>
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-sort-alpha-desc"></i>&nbsp;&nbsp;Plataforma</a>
+                    <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">
+                      
+                      <img  class="icono" src="https://png.icons8.com/material/50/000000/vpn.png">
+
+                      &nbsp;&nbsp;Plataforma</a>
                         <div class="megamenu clearfix">
                            <div class="col-lg-4 col-md-12 col-xs-12">
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
@@ -130,7 +142,9 @@
 
                       </li>
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-shopping-bag"></i>&nbsp;&nbsp;Revendedor</a>
+                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">
+                        <img  class="icono" src="https://png.icons8.com/material/50/000000/reseller.png">
+                      &nbsp;&nbsp;Revendedor</a>
                         <div class="megamenu clearfix"> 
 
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
@@ -141,7 +155,9 @@
                         </div>
                       </li>
 
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cloud"></i>&nbsp;&nbsp;Seguridad &amp; Diseño</a>
+                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">
+                        <img class="icono" src="https://png.icons8.com/material/50/000000/modern-art.png">
+                      &nbsp;&nbsp;Seguridad &amp; Diseño</a>
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
                           <ul class="col-lg-2 col-md-2 col-sm-3 col-xs-12 link-list">
@@ -163,7 +179,9 @@
                         <a href="#" class="text-center">
 
 
-                          <i class="fa fa-server"></i> Servicios
+                         <img class="icono" src="https://png.icons8.com/material/50/000000/services.png"> 
+
+                          Servicios
                         </a>
 
 
@@ -195,7 +213,8 @@
                         </span>
 
                         <a href="#">
-                          <i class="fa fa-cogs"></i>
+                        
+                          <img class="icono" src="https://png.icons8.com/material/50/000000/business.png">
                             &nbsp;&nbsp;Compañía
                           </a>
 
@@ -211,7 +230,12 @@
 
                         </div>
                       </li>
-                      <li class="menu-arrow-1"><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Contacto</a>
+                      <li class="menu-arrow-1"><span class="wsmenu-click">
+                        <i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">
+
+                        <img class="icono" src="https://png.icons8.com/material/50/000000/contacts.png">
+                      &nbsp;&nbsp;Contacto</a>
+                        
                         <div class="megamenu clearfix">
                           <div class="col-lg-4 col-md-12 col-xs-12">
                           <ul class="link-list">
@@ -223,7 +247,9 @@
 
                         </div>
                       </li>
-                      <li class="menu-arrow-1"><a href="#"><i class="fa fa-cogs"></i>&nbsp;&nbsp;Panel</a>
+                      <li class="menu-arrow-1"><a href="#">
+                        <img class="icono" src="https://png.icons8.com/material/50/000000/vertical-settings-mixer.png">
+                      &nbsp;&nbsp;Panel</a>
                         </li>
 
 <li class="menu-arrow-1">
